@@ -1,0 +1,7 @@
+import Foundation
+var n = 2
+var sum = 1
+for i in 1...n {
+    sum += i
+}
+print("The sum of first \(n) natural numbers is \(sum)")
