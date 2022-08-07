@@ -1,0 +1,4 @@
+var numbers = [11, 33, 35, 21]
+print("Before Append:\(numbers)")
+numbers.append(69)
+print("After Append:\(numbers)")
