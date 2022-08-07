@@ -1,0 +1,7 @@
+let number = 6
+if (number > 100) {
+print("Number is positive.")
+}
+else {
+print("Number is negative.")
+}
